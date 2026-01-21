@@ -17,6 +17,7 @@ latest = ["30_0"]
 
 # Enable the same feature in `node` and the version feature here.
 # All minor releases of the latest four versions.
+30_2 = ["v30_and_below", "node/30_2"]
 30_0 = ["v30_and_below", "node/30_0"]
 29_0 = ["v29_and_below", "node/29_0"]
 28_2 = ["v28_and_below", "node/28_2"]
